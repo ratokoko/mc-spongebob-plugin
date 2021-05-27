@@ -1,0 +1,9 @@
+name: SpongebobMC
+version: 1.0.0
+author: ratoko
+main: com.ratkko.spongebob.Main
+api-version: 1.14
+commands:
+  frame:
+    description: Makes a frame from Spongebob
+    usage: /frame <frame> <x> <y> <z> <direction> <world_name>
