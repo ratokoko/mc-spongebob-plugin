@@ -1,5 +1,6 @@
 # mc-spongebob-plugin
 A plugin for Spigot 1.16.5 which can output frames from Spongebob into Minecraft!
+( I'm a mega noob so if you find a problem pls reach out! )
 
 # Get started
 1. Get Spigot 1.16.5
