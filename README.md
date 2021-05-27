@@ -3,7 +3,9 @@ A plugin for Spigot 1.16.5 which can output frames from Spongebob into Minecraft
 
 # Get started
 1. Get Spigot 1.16.5
-2. Get all files and put it in your 'plugins' folder
+2. Download code
+3. Put code into your 'plugins' folder
+4. Hopefully it works :D
 
 # How to use
 \/frame \<frame_num\> \<x\> \<y\> \<z\> \<direction\> \<world_name\>
