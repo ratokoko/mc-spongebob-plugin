@@ -24,7 +24,7 @@ public class events implements CommandExecutor {
 
         String commandName = command.getName().toLowerCase();
 
-        if(sender.isOp() && commandName.equals("frame") && args.length == 6) {
+        if(!(sender instanceof Player) && commandName.equals("frame") && args.length == 6) {
 
             Integer starting_x_coord = Integer.parseInt(String.valueOf(args[1]));
             Integer starting_y_coord = Integer.parseInt(String.valueOf(args[2]));
