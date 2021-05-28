@@ -1,14 +1,12 @@
 # MCSpongeBobPlugin
 A plugin for Spigot 1.16.5 which can output frames from SpongeBob into Minecraft!
 
-( I'm a mega noob so if you find a problem pls reach out! )
-
 ![SpongeBob Plugin](/spongebob_plugin.png)
 
 # Get started
 1. Get Spigot 1.16.5
-2. Download code
-3. Put all files from the 'plugin' folder into your Minecraft server's 'plugins' folder
+2. Download [the zip](https://github.com/RainbowDino567/mc-spongebob-plugin/releases/tag/v0.1)
+3. Extract all files from the zip into your Minecraft server's 'plugins' folder
 4. Hopefully it works :D
 
 # How to use
