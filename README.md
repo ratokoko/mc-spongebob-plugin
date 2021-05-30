@@ -13,7 +13,7 @@ A plugin for Spigot 1.16.5 which can output frames from SpongeBob into Minecraft
 /frame <frame_num> <x> <y> <z> <direction> <world_name>
 ```
 
-(Only operators can use the command (/op))
+(Only operators can use this command)
   
 # Frames
 - 1 = Intermission sign
@@ -28,5 +28,5 @@ A plugin for Spigot 1.16.5 which can output frames from SpongeBob into Minecraft
 - 2 = Add to Z
 - 3 = Subtract from Z
 
-# Thanks
+# Thanks <3
 Frames are taken from: http://www.everyframeinorder.com/
